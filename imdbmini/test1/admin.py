@@ -22,4 +22,3 @@ class CastAdmin(admin.ModelAdmin):
     list_display = ['id', 'person', 'film', 'film_char']
 
 
-
